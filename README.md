@@ -5,9 +5,9 @@
 [![License](https://img.shields.io/github/license/dimasadyaksa/rotator)](LICENSE)
 
 ## Overview
-Rotator is a Go package that provides a fundamental implementation of a rotating container designed to hold elements of various types. 
-This package facilitates efficient management and manipulation of elements through key-based operations, all while ensuring Go routine safety. 
-It is particularly well-suited for use cases where cyclic traversal of element lists or rapid access by their respective keys is necessary.
+
+Rotator is a Go package that provides an implementation of a rotating container, 
+well-suited for use cases where cyclic traversal of element lists or rapid access by their respective keys is necessary, all while ensuring Go routine safety.
 
 ## Installation
 
